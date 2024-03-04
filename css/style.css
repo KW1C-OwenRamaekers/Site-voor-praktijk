@@ -34,8 +34,7 @@ div {
 }
 
 .topbar a:hover {
-    background-color: rgb(203, 203, 203);
-    color: black;
+    color: rgb(207, 207, 207);
 }
 
 #time {
