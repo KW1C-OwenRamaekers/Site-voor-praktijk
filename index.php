@@ -14,11 +14,11 @@ Date: 20/2/2024
 </head>
 <body>
     <div>
-        <ul>
-            <li><a href="index.php"> <img src="images/logo.png" alt="Trainstation073.nl logo"></a></li>
-            <li><a class="menu" href="overons.html">Over ons</a></li>
-            <li><a class="menu" href="contact.html">Contact</a></li>
-            <li id="time"><?php echo date('g:i A'); ?></li>
+        <ul id="topnav">
+            <li class="topbar"><a href="index.php"> <img src="images/logo.png" alt="Trainstation073.nl logo"></a></li>
+            <li class="topbar"><a class="menu" href="pages/overons.php">Over ons</a></li>
+            <li class="topbar"><a class="menu" href="pages/contact.php">Contact</a></li>
+            <li class="topbar" id="time"><?php echo date('g:i A'); ?></li>
         </ul>
     </div>
     
