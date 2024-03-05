@@ -21,7 +21,12 @@ Date: 20/2/2024
             <li class="topbar" id="time"><?php echo date('g:i A'); ?></li>
         </ul>
     </div>
-    
+    <div id="banner">
+        <img src="" alt="">
+        <img src="" alt="">
+        <img src="" alt="">
+        <img src="" alt="">
+    </div>
     
 </body>
 </html>
