@@ -22,10 +22,9 @@ Date: 20/2/2024
         </ul>
     </div>
     <div id="banner">
-        <img src="images/header01.png" alt="header 1">
-        <img src="images/header02.png" alt="header 2">
-        <img src="images/header03.png" alt="header 3">
-        <img src="images/header04.png" alt="header 4">
+        <img src="images/header01.png" alt="header 1" class="imgslideshow">
+        <img src="images/header02.png" alt="header 2" class="imgslideshow">
+        <img src="images/header03.png" alt="header 3" class="imgslideshow">
     </div>
     
 </body>
