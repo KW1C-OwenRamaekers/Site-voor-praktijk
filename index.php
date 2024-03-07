@@ -26,6 +26,8 @@ Date: 20/2/2024 - 7/3/2024
         <img src="images/header02.png" alt="header 2" class="imgslideshow">
         <img src="images/header03.png" alt="header 3" class="imgslideshow">
     </div>
+    <img src="images/NotVid.jpg" alt="not video" id="notvid">
+    <article class="text-right">
     <h2>
     AANDACHT, UITDAGING EN BELEVING
     </h2>
@@ -38,11 +40,14 @@ Date: 20/2/2024 - 7/3/2024
      Wat jouw doel ook is, wij helpen je met de juiste manier van trainen in een unieke sportomgeving met de nieuwste materialen waarbij aandacht,
     uitdaging en beleving centraal staan.
     Samen zorgen we voor een goede balans tussen training, voeding en rust!
-    Personal trainers met veel ervaring;
-    Unieke trainingsstations;
-    Je plant zelf je training (keuze uit 50 momenten per week);
-    Dé handige Trainstation-app;
-    Goed bereikbaar en gratis parkeren.
     </p>
+    <ul>
+    <li>Personal trainers met veel ervaring;</li>
+    <li>Unieke trainingsstations;</li>
+    <li>Je plant zelf je training (keuze uit 50 momenten per week);</li>
+    <li>Dé handige Trainstation-app;</li>
+    <li>Goed bereikbaar en gratis parkeren.</li>
+    </ul>
+    </article>
 </body>
 </html>
