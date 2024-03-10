@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Uitkomst</title>
+    <link rel="stylesheet" href="../css/calc.css">
 </head>
 <body>
-    <h1>Uitkomst</h1>
+    <h1 class="result" class="error">Uitkomst</h1>
     <?php
     if (isset($_POST['gender'], $_POST['age'], $_POST['frequency'])) {
         $gender = $_POST['gender'];
@@ -68,9 +69,9 @@
             }
         }
 
-        echo "<p>$result</p>";
+        echo "<p class='result'>$result</p>";
     } else {
-        echo "<p>U heeft niet alles ingevuld.</p>";
+        echo "<p class='error'>U heeft niet alles ingevuld.</p>";
     }
     ?>
 </body>
