@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/article.css">
 </head>
 <body>
-<img src="images/NotVid.jpg" alt="not video" id="notvid">
+<img src="../images/NotVid.jpg" alt="not video" id="notvid">
     <article id="text-right">
     <h2>
     AANDACHT, UITDAGING EN BELEVING

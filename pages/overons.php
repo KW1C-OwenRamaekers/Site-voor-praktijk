@@ -5,6 +5,6 @@
     <title>Over ons</title>
 </head>
 <body>
-    
+    <?php include ('../pages/Topnav.php'); ?>
 </body>
 </html>

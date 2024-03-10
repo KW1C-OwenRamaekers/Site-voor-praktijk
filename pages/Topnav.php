@@ -8,7 +8,7 @@
 <body>
     <div>
         <ul id="topnav">
-            <li class="topbar"><a href="index.php"> <img src="images/logo.png" alt="Trainstation073.nl logo"></a></li>
+            <li class="topbar"><a href="index.php"> <img src="../images/logo.png" alt="Trainstation073.nl logo"></a></li>
             <li class="topbar"><a class="menu" href="pages/overons.php">Over ons</a></li>
             <li class="topbar"><a class="menu" href="pages/calcalc.php">Calorieën Calculator</a></li>
             <li class="topbar" id="time"><?php echo date('g:i A'); ?></li>
