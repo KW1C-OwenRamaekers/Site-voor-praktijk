@@ -49,19 +49,5 @@ Date: 20/2/2024 - 7/3/2024
     <li>Goed bereikbaar en gratis parkeren.</li>
     </ul>
     </article>
-    <article id="sportruimte">
-    <img src="images/sportruimte.png" alt="sportruimte" id="sportruimteimg">
-    <article id="text-left">
-    <h2>MAAKT SPORTEN WEER LEUK</h2>
-    <h1>FUN STATION</h1>
-    <p>Dit station maakt sporten écht leuk! Funstation zorgt ervoor dat je niet moet trainen maar zin krijgt om te trainen.</p>
-    <ul>
-        <li>Balsporten</li>
-        <li>Calisthenics (trainen op lichaamsgewicht)</li>
-        <li>Body & mind</li>
-        <li>Sport & spel</li>
-    </ul>
-    </article>
-    </article>
 </body>
 </html>
