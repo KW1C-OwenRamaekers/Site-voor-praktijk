@@ -27,7 +27,7 @@ Date: 20/2/2024 - 7/3/2024
         <img src="images/header03.png" alt="header 3" class="imgslideshow">
     </div>
     <img src="images/NotVid.jpg" alt="not video" id="notvid">
-    <article class="text-right">
+    <article id="text-right">
     <h2>
     AANDACHT, UITDAGING EN BELEVING
     </h2>
@@ -49,5 +49,6 @@ Date: 20/2/2024 - 7/3/2024
     <li>Goed bereikbaar en gratis parkeren.</li>
     </ul>
     </article>
+    <article id="sportruimte">
 </body>
 </html>
