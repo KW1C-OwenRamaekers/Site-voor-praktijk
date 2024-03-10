@@ -39,6 +39,7 @@
                     $result = 'U heeft goed gefit.';
                 }
             }
+            else {
         } if ($gender === 'female') {
             if ($age <= 16 && $age >= 0) {
                 $result = 'U bent te jong voor de sportschool.';
@@ -67,6 +68,7 @@
                     $result = 'U heeft goed gefit.';
                 }
             }
+        }
         }
 
         echo "<p class='result'>$result</p>";
