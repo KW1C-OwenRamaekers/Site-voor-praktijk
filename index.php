@@ -17,7 +17,7 @@ Date: 20/2/2024 - 7/3/2024
         <ul id="topnav">
             <li class="topbar"><a href="index.php"> <img src="images/logo.png" alt="Trainstation073.nl logo"></a></li>
             <li class="topbar"><a class="menu" href="pages/overons.php">Over ons</a></li>
-            <li class="topbar"><a class="menu" href="pages/contact.php">Contact</a></li>
+            <li class="topbar"><a class="menu" href="pages/calcalc.php">Calorieën Calculator</a></li>
             <li class="topbar" id="time"><?php echo date('g:i A'); ?></li>
         </ul>
     </div>
@@ -50,5 +50,11 @@ Date: 20/2/2024 - 7/3/2024
     </ul>
     </article>
     <article id="sportruimte">
+    <img src="images/sportruimte.png" alt="sportruimte" id="sportruimteimg">
+    <article id="text-left">
+    <h2>MAAKT SPORTEN WEER LEUK</h2>
+    <h1>FUN STATION</h1>
+    </article>
+    </article>
 </body>
 </html>
