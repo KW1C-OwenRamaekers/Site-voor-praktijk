@@ -70,8 +70,6 @@
         }
 
         echo "<p class='result'>$result</p>";
-    } else {
-        echo "<p class='error'>U heeft niet alles ingevuld.</p>";
     }
     ?>
 </body>
